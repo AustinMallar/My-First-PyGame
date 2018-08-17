@@ -1,1 +1,1 @@
-First Python Game Project Using Pygame
+First Python Game Project Using PyGame
